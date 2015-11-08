@@ -1,0 +1,2 @@
+# LocaleDetector
+Laravel Locale Detector
